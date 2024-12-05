@@ -1,0 +1,24 @@
+p{
+    color:darkgoldenrod;
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+#pl{
+    color:darkgoldenrod;
+    font-size: 70px;
+    text-align: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p.estilo{
+    color:darkgoldenrod;
+    font-style: italic;
+    text-align: left;
+    font-size: 70px;
+}
+h1.estilo{
+    text-align: center;
+    font-style: oblique;
+    color:darkgoldenrod;
+    font-size: 70px;
+}
